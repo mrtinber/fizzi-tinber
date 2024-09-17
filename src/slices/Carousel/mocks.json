@@ -1,0 +1,31 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Acres"
+						}
+					}
+				]
+			},
+			"price_copy": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Velit consectetur ullamco consectetur dolor est eiusmod cillum non ut id aliquip exercitation proident. Et ut aute nulla nisi do cupidatat sint ex. Amet enim in aliquip dolore aute quis laborum mollit officia sint officia in cupidatat."
+						}
+					}
+				]
+			}
+		},
+		"items": []
+	}
+]
