@@ -1,6 +1,6 @@
 <a id="readme-top"></a>
 
-# Fizzi - 
+# Fizzi - Soda for Gutsy People
 
 <img src="public/hero-example.png" alt="Example">
 
@@ -8,9 +8,13 @@
 
 This is a landing page for a fictional soda brand called Fizzi, featuring multiple 3D animations and transitions. 
 
-Disclaimer:
-This website comes from a tutorial made by the Prismic YouTube channel.
-All credits go to the creators.
+_Disclaimer:_
+
+_This website comes from a tutorial made by the Prismic YouTube channel._
+
+_All credits go to the [creators](https://www.youtube.com/@Prismic)._
+
+[![Youtube][Youtube]][Youtube-URL]
 
 ## Prerequisite
 
@@ -46,11 +50,6 @@ You should be able to view the project at http://localhost:3000 and access the S
 ![TailwindCSS][TailwindCSS]
 ![GSAP][GSAP]
 ![ThreeJS][ThreeJS]
-
-## Author
-
-[![GitHub][GitHub]][GitHub-URL]
-[![LinkedIn][LinkedIn]][LinkedIn-URL]
 
 ## Contributing
 
@@ -91,6 +90,8 @@ limitations under the License.
 [LinkedIn]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [LinkedIn-URL]: https://www.linkedin.com/in/kevin-bertin/
 
+[Youtube]: https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
+[Youtube-URL]: https://www.youtube.com/@Prismic
 [prismic]: https://prismic.io/
 [prismic-docs]: https://prismic.io/docs/technologies/nextjs
 [prismic-sign-up]: https://prismic.io/dashboard/signup
